@@ -1,1 +1,1 @@
-# db_restore_from_sftp
+# http://kagarlickij.com/download-restore-ms-sql-database-backup/
